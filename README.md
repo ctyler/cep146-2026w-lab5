@@ -9,7 +9,7 @@ to be built with:
 ````
    make test001
 ````
-The oldeste commits have no Makefile and need to be build manually:
+The oldest commits have no Makefile and need to be build manually:
 ````
    gcc test001.c -o test001
 ````
