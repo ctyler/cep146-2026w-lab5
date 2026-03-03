@@ -9,6 +9,11 @@ to be built with:
 ````
    make test001
 ````
+The oldeste commits have no Makefile and need to be build manually:
+````
+   gcc test001.c -o test001
+````
+
 To try the program:
 
 1. Run it with no arguments:        `./test001`
