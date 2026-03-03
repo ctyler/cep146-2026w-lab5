@@ -17,6 +17,6 @@ To try the program:
 **IMPORTANT: There appears to be an issue with the current version:
 when run with multiple arguments, it segfaults.**
 
-**First known good commit: f08a69d**
-**Current HEAD is known bad**
+- First known good commit: f08a69d
+- Current HEAD is known bad
 
